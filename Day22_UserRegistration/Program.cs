@@ -8,6 +8,9 @@
 
             UC1RegexPattern.FirstName();
             Console.WriteLine("\nUser Registration Program Ends");
+
+            UC2ValidLastname.FirstName();
+            Console.WriteLine("\nUser Registration Program Ends");
             Console.ReadLine();
         }
     }
