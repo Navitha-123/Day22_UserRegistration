@@ -6,10 +6,14 @@
         {
             Console.WriteLine("Welcome to User Registration\n");
 
-            UC1RegexPattern.FirstName();
-            Console.WriteLine("\nUser Registration Program Ends");
+            //UC1RegexPattern.FirstName();
+            //Console.WriteLine("\nUser Registration Program Ends");
 
-            UC2ValidLastname.FirstName();
+            //UC2ValidLastname.LastNmae();
+            //Console.WriteLine("\nUser Registration Program Ends");
+
+
+            UC3_ValidEmail.Email();
             Console.WriteLine("\nUser Registration Program Ends");
             Console.ReadLine();
         }
