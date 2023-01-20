@@ -7,14 +7,17 @@
             Console.WriteLine("Welcome to User Registration\n");
 
             //UC1RegexPattern.FirstName();
-            //Console.WriteLine("\nUser Registration Program Ends");
+            //Console.WriteLine("Program ends");
 
             //UC2ValidLastname.LastNmae();
-            //Console.WriteLine("\nUser Registration Program Ends");
+            //Console.WriteLine("Program ends");
 
 
-            UC3_ValidEmail.Email();
-            Console.WriteLine("\nUser Registration Program Ends");
+            //UC3_ValidEmail.Email();
+            //Console.WriteLine("Program ends");
+
+            UC4ValidPhoneNumber.PhoneNumber();
+            Console.WriteLine("Program ends");
             Console.ReadLine();
         }
     }
